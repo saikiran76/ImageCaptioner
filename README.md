@@ -4,3 +4,6 @@ The streamlit deployed based app will generate the caption for the uploaded imag
 
 Link :
 https://huggingface.co/nlpconnect/vit-gpt2-image-captioning
+
+Please run the below command in the terminal and in the appliaction's directory to test the application on local host:
+streamlit run image_caption.py
